@@ -17,6 +17,11 @@ let songs = [
     { songName: "Salam-e-Ishq", filePath: "song/8.mp3", coverPath: "image/8.jpg" },
     { songName: "Salam-e-Ishq", filePath: "song/9.mp3", coverPath: "image/9.jpg" },
     { songName: "Salam-e-Ishq", filePath: "song/10.mp3", coverPath: "image/10.jpg" },
+    { songName: "Salam-e-Ishq", filePath: "song/11.mp3", coverPath: "image/11.jpg" },
+    { songName: "Salam-e-Ishq", filePath: "song/12.mp3", coverPath: "image/12.jpg" },
+    { songName: "Salam-e-Ishq", filePath: "song/13.mp3", coverPath: "image/13.jpg" },
+    { songName: "Salam-e-Ishq", filePath: "song/14.mp3", coverPath: "image/14.jpg" },
+    { songName: "Salam-e-Ishq", filePath: "song/15.mp3", coverPath: "image/15.jpg" },
 ];
 
 //  Reset all song item icons to play
